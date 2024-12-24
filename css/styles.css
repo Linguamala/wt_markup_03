@@ -277,7 +277,7 @@ footer .footer_section_2 ul li svg {
     fill: #FFFFFF;
    
 }
-footer ul li a:hover{
+footer .footer_section_2 ul li a:hover{
     background-color:var(--_logo_blue_color);
 }
 footer .footer_section_3 {
