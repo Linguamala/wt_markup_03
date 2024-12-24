@@ -1,0 +1,159 @@
+:root{
+    --_logo_blue_color:#2196F3;
+}
+
+a {
+    color:black;
+    text-decoration: none;
+    font-family: "Roboto";
+}
+
+ul {
+    list-style-type: none;
+}
+
+header .logo {
+    font-family: "Raleway";
+    font-size: 26px;
+    font-weight: 700;
+}
+header .logo span {
+    color:var(--_logo_blue_color);
+}
+header nav ul li {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+header nav ul li :hover {
+    color:var(--_logo_blue_color);
+}
+header .header_contacts li a {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+    color: #757575;
+    fill: #757575;
+}
+header .header_contacts li :hover {
+    color:var(--_logo_blue_color);
+    fill:var(--_logo_blue_color);
+}
+main .section_id_1 {
+    background-color: #2F303A;
+    font-family: "Roboto";
+    font-size: 44px;
+    font-weight: 900;
+    color: #FFFFFF;
+}
+main .section_id_1 button {
+    background-color:var(--_logo_blue_color);
+    color: #FFFFFF;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 700;
+}
+main .section_id_2 ul li h3 {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 700;
+}
+main .section_id_2 ul li p {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 400;
+    color: #757575;
+}
+main .section_id_2 ul li svg {
+    background-color:#F5F4FA;
+}
+main .section_id_3 h2 {
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 700;
+}
+main .section_id_3 ul li img {
+    border-radius: 10px;
+}
+main .section_id_4 {
+    background-color: #F5F4FA;
+}
+main .section_id_4 h2 {
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 700;
+}
+main .section_id_4 ul .team_css {
+    box-shadow: 0 2px 3px 0px;
+}
+main .section_id_4 ul li svg {
+    fill: #AFB1B8;
+} 
+main .section_id_4 ul li a :hover {
+    background-color: var(--_logo_blue_color);
+    fill: #ffffff;
+}
+main .section_id_4 ul li .name {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+main .section_id_4 ul li .post {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    color: #757575;
+}
+footer {
+    background-color: #2F303A;
+}
+footer .logo {
+    font-family: "Raleway";
+    font-size: 26px;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+footer .logo span {
+    color:var(--_logo_blue_color);
+}
+footer address {
+    color: #FFFFFF;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+}
+footer address li a {
+    color: #FFFFFF99;
+    font-size: 14px;
+    font-weight: 400;
+}
+footer p {
+    color: #FFFFFF;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 700;
+}
+footer ul li svg {
+    fill: #FFFFFF;
+    background-color: #FFFFFF1A;
+}
+footer ul li a :hover{
+    background-color:var(--_logo_blue_color);
+}
+footer form input {
+    background-color: #2F303A;
+    color: #FFFFFF99;
+    border-color: #FFFFFF4D;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+}
+footer button {
+    background-color: var(--_logo_blue_color);
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 700;
+    color: #FFFFFF;
+    fill: #FFFFFF;
+}
